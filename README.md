@@ -16,6 +16,6 @@
 
 ###
 
-[<img src="https://github.com/Weskus0203/Images/blob/main/discord.png">](https://discordapp.com/users/360564967382056961)
+[<img src="https://github.com/Weskus0203/Images/blob/main/discord.png" width="48">](https://discordapp.com/users/360564967382056961)
 
 ###
