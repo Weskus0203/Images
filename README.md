@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://github-production-user-asset-6210df.s3.amazonaws.com/82973950/420363136-0183da5e-2c5e-4556-9551-afd8045294fb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250307%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250307T140306Z&X-Amz-Expires=300&X-Amz-Signature=f9e2704260e075552a66d1ed41bdcd03b80c8c389c965e8563035dbc8b0319d9&X-Amz-SignedHeaders=host"  />
+  <img height="500" src="https://pasteboard.co/qsXlK6dlYxE6.png"  />
 </div>
 
 ###
@@ -17,9 +17,7 @@
 ###
 
 <div align="left">
-  <a href=" https://discordapp.com/users/360564967382056961" target="https://discordapp.com/users/360564967382056961">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+  [<img src="https://pasteboard.co/17UL3MlPVS2v.png">](https://discordapp.com/users/360564967382056961)
 </div>
 
 ###
