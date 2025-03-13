@@ -12,6 +12,20 @@
 
 ###
 
+<h2 align="left">Monolith Rear Z Chain</h2>
+
+###
+
+<p align="left">Just a simple rear extrusion mount to clean up the wires going to the Z chain, fits a couple of 4 pin microfit connectors and some extra wiggle room.</p>
+
+###
+
+<div align="center">
+  <img height="500" src="https://github.com/Weskus0203/Images/blob/main/Zchain_1.png"  />
+</div>
+
+###
+
 <p align="left">Any issues feel free to ping me on discord</p>
 
 ###
